@@ -1,4 +1,6 @@
 // proyecto bomba de agua 
+// Control con transistor C2344
+// Etapa de potecia por relevador controlado por transistor 
 
 int baseAgua=45;
 
